@@ -1,5 +1,6 @@
 import RPi.GPIO as GPIO
 from time import sleep
+print('I like dogs')
 class LEDactivate:
 
     def __init__(self):
